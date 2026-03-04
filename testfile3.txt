@@ -1,1 +1,2 @@
 trying to add a newly created text file through git bash to the test branch lucifer
+appending a new text in the file testfile3.txt
