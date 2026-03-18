@@ -1,3 +1,5 @@
 mc2 merge conflict concept got cleared
+<<<<<<< HEAD
 new line through main
-sadik main
+sadik main & sloth
+
